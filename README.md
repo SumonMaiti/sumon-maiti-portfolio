@@ -27,6 +27,6 @@ This portfolio is built for modern visual engagement and functionality:
 | Background | HTML Canvas API | Powers the live particle network. |
 | Contact | Formspree | Serverless form submission handling. |
 
-** (gnoig o)
+
 
      
