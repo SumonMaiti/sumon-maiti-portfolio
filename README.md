@@ -2,7 +2,7 @@
 A dynamic and responsive personal portfolio showcasing expertise in Electronics and Communication Engineering, specializing in IoT, embedded systems, and innovative tech solutions.
 
 ### 🔗 Live Demo
-
+[Portfolio link](https://sumonmaiti.github.io/sumon-maiti-portfolio/)
 
 ## ✨ Key Features
 This portfolio is built for modern visual engagement and functionality:
