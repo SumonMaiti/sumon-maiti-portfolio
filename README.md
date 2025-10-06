@@ -45,6 +45,6 @@ This portfolio is built for modern visual engagement and functionality:
 
 ---
 
-⭐️ From [@Thaiane](https://github.com/SumonMaiti)
+⭐️ From [@Sumon](https://github.com/SumonMaiti)
 
      
